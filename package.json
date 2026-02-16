@@ -1,12 +1,13 @@
 {
   "name": "my-browser-project",
   "version": "1.0.0",
-  "description": "Headless browser with Puppeteer",
+  "description": "Headless browser with Puppeteer + Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "express": "^4.18.2",
     "puppeteer": "^24.7.1"
   }
 }
