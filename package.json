@@ -1,0 +1,12 @@
+{
+  "name": "my-browser-project",
+  "version": "1.0.0",
+  "description": "Headless browser with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.7.1"
+  }
+}
